@@ -129,3 +129,43 @@ Let's assume we are building an **E-commerce website** where users can **browse 
 Understanding **SDLC** is essential for building scalable applications. For an **E-commerce site using Spring Microservices**, we follow a structured process from **planning to deployment** while using various technologies for **development, testing, and deployment**.
 
 Would you like a **detailed tutorial on implementing one of these phases?** 😊🚀
+
+# How does planing happen before requirement?
+
+# Planning vs. Requirement Analysis in SDLC
+
+Great question! In reality, Planning and Requirement Analysis often happen together, but Planning typically comes first in the SDLC model. Here's why:
+
+## Why Planning Happens First?
+Before gathering detailed requirements, the team needs a high-level idea of the project:
+
+- What is the purpose of the software?
+- Who are the stakeholders?
+- What is the estimated budget and timeline?
+- What resources (team members, tools, technologies) are needed?
+
+This helps in allocating resources and defining the project scope before diving into detailed requirements.
+
+## A More Realistic Flow
+Since projects are rarely linear, a better breakdown would be:
+
+1️⃣ **Initial Planning**: Define the business idea and rough scope.  
+2️⃣ **Requirement Analysis**: Gather detailed functional & technical needs.  
+3️⃣ **Revised Planning**: Adjust scope based on requirements.  
+
+## For an E-commerce Site Example
+
+### 1️⃣ Initial Planning:
+- "We are building an e-commerce site with microservices."
+- "It should have authentication, product listing, a shopping cart, and payments."
+- "Spring Boot + React + MySQL + AWS will be our tech stack."
+
+### 2️⃣ Requirement Analysis:
+- Define user roles (Admin, Customer, Seller).
+- Decide features (Product Search, Reviews, Payment Methods).
+- API design: `/products`, `/cart`, `/checkout`, etc.
+
+### 3️⃣ Revised Planning:
+- Adjust the timeline based on detailed requirements.
+- Increase budget if complex features are needed.
+
