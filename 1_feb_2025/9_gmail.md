@@ -1,11 +1,11 @@
 # Suppose I send some video in gmail, and the receiver downloads the videos, how would have the data gone through the seven layers of OSI models and what would have happned in each of them, in this process what is the role/importance of
 
 -IP address
---URL
---ports
---hosting facilities
---Domain registars
---http header and server in that
+-URL
+-ports
+-hosting facilities
+-Domain registars
+-http header and server in that
 
 
 
