@@ -9,6 +9,7 @@ Exponent और Log एक-दूसरे के विपरीत (inverse) o
 मूल संबंध इस प्रकार है:
 ```
 यदि a^b = c,  तो  log_a(c) = b
+power ka matlab continuous multiplication and log ka matlab continuous division
 ```
 
 ## 📱 Message Forwarding Example
